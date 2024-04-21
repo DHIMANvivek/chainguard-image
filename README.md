@@ -1,4 +1,4 @@
-# Uploading or Publishing Image to Docker and AWS EMR
+# Uploading or Publishing Image to Docker and AWS ECR
 
 This guide outlines the steps to upload or publish an image to Docker and AWS EMR.
 
