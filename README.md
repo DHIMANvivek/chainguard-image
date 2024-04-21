@@ -2,7 +2,7 @@
 
 This guide outlines the steps to upload or publish an image to Docker and AWS EMR.
 
-## Upload to Docker and AWS EMR
+## Upload to Docker and AWS ECR
 
 ```bash
 # Step 1: Build the Docker Image
